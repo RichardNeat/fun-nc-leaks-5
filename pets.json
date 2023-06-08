@@ -1,0 +1,137 @@
+[
+  {
+    "username": "Liam310",
+    "pets": [
+      {
+        "name": "Rodriguez",
+        "kind": "llama",
+        "alive": true
+      },
+      {
+        "name": "Jean-Luc Picard",
+        "kind": "octopus",
+        "alive": true
+      }
+    ]
+  },
+  {
+    "username": "rogersop",
+    "pets": [
+      {
+        "name": "Dave",
+        "kind": "cat",
+        "alive": false
+      },
+      {
+        "name": "Pinchy",
+        "kind": "lobster",
+        "alive": false
+      }
+    ]
+  },
+  {
+    "username": "SarahBrowncross",
+    "pets": [
+      {
+        "name": "Apophis",
+        "kind": "shrimp",
+        "alive": false
+      },
+      {
+        "name": "Higgs Boson",
+        "kind": "tortoise",
+        "alive": true
+      }
+    ]
+  },
+  {
+    "username": "amy_wild",
+    "pets": [
+      {
+        "name": "Karl",
+        "kind": "llama",
+        "alive": true
+      }
+    ]
+  },
+  {
+    "username": "AnthonyMedina",
+    "pets": [
+      {
+        "name": "Shnitzel",
+        "kind": "cat",
+        "alive": true
+      }
+    ]
+  },
+  {
+    "username": "antariess",
+    "pets": [
+      {
+        "name": "Opal",
+        "kind": "cat",
+        "alive": true
+      },
+      {
+        "name": "Jeffry",
+        "kind": "cat",
+        "alive": false
+      }
+    ]
+  },
+  {
+    "username": "daviidbartlett",
+    "pets": [
+      {
+        "name": "Barney",
+        "kind": "dog",
+        "alive": true
+      },
+      {
+        "name": "Shania",
+        "kind": "rock",
+        "alive": false
+      }
+    ]
+  },
+  {
+    "username": "lucy_g",
+    "pets": [
+      {
+        "name": "Polly",
+        "kind": "cat",
+        "alive": true
+      }
+    ]
+  },
+  {
+    "username": "mallionaire",
+    "pets": [
+      {
+        "name": "Holly",
+        "kind": "hamster",
+        "alive": false
+      },
+      {
+        "name": "James Pond",
+        "kind": "goldfish",
+        "alive": false
+      }
+    ]
+  },
+  {
+    "username": "icellusedkars",
+    "pets": [
+      {
+        "name": "Otis",
+        "kind": "dog",
+        "alive": false
+      },
+      {
+        "name": "Branston",
+        "kind": "dog",
+        "alive": true
+      }
+    ]
+  }
+]
